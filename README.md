@@ -4,12 +4,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://s6.uupload.ir/files/screenshot_1704027929_ng9o.png" alt="project-screenshot"/">
-
-<img src="https://s6.uupload.ir/files/screenshot_1704028028_hn4h.png" alt="project-screenshot" /">
-
-  
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
