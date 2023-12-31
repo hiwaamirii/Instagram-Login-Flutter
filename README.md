@@ -4,9 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://s6.uupload.ir/files/screenshot_1704027929_ng9o.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://s6.uupload.ir/files/screenshot_1704027929_ng9o.png" alt="project-screenshot"/">
 
-<img src="https://s6.uupload.ir/files/screenshot_1704028028_hn4h.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://s6.uupload.ir/files/screenshot_1704028028_hn4h.png" alt="project-screenshot" /">
 
   
   
