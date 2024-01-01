@@ -2,8 +2,6 @@
 
 <p id="description">A simple and practical Instagram login page with a beautiful design Please give this project a star I appreciate it. The project will evolve over time.</p>
 
-<h2>Project Screenshots:</h2>
-
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
